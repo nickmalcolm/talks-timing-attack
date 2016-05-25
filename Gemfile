@@ -10,7 +10,10 @@ gem 'spring', :group => :development
 
 gem 'sqlite3'
 
-
+gem 'httparty'
+gem 'descriptive_statistics'
+gem 'ascii_charts'
+gem 'ruby-progressbar'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
